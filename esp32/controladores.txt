@@ -1,2 +1,1 @@
-1-esp32
-1-lora32
+esp32, lora32, esp32 ttgo
