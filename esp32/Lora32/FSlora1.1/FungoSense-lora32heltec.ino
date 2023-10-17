@@ -1,9 +1,9 @@
 //DADOS:
-char ssid[] = "ESPACOS"; // nome da rede wifi
-char pass[] = "3SP@C0S@2E"; //senha do wifi
-#define BLYNK_TEMPLATE_ID           "TMPL2QF8TibAA" // id do template
-#define BLYNK_TEMPLATE_NAME         "FungoSense template" // nome do template
-#define BLYNK_AUTH_TOKEN            "sDbMZZTpY1btntms2j0zGG7gGGyVkHCh" // token do blynk
+char ssid[] = ""; // nome da rede wifi
+char pass[] = ""; //senha do wifi
+#define BLYNK_TEMPLATE_ID           "" // id do template
+#define BLYNK_TEMPLATE_NAME         "" // nome do template
+#define BLYNK_AUTH_TOKEN            "" // token do blynk
 float tmaxf = 28; // escolha a temperatura que a ventilação vai ligar caso seja reiniciado
 int refg = 1; // escolha de 1 a 0 que vai definir se a ventilação vai está liga caso seja reiniciado
 
